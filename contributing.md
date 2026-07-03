@@ -1,20 +1,61 @@
-# Contributing
+# Contributing Guidelines
 
-Thank you for contributing!
+Thank you for contributing ❤️
 
 ## Steps
 
-1. Fork this repository.
-2. Clone your fork.
-3. Create a new branch.
-4. Add your solution in the correct language folder.
-5. Commit your changes.
-6. Push your branch.
-7. Open a Pull Request.
+### 1. Fork Repository
+
+Click Fork.
+
+### 2. Clone
+
+```bash
+git clone https://github.com/YOUR_USERNAME/LeetCode-Solutions.git
+```
+
+### 3. Create Branch
+
+```bash
+git checkout -b feature-name
+```
+
+### 4. Add Solution
+
+Example:
+
+```
+Java/
+    TwoSum.java
+```
+
+### 5. Commit
+
+```bash
+git add .
+git commit -m "Added Java solution for Two Sum"
+```
+
+### 6. Push
+
+```bash
+git push origin feature-name
+```
+
+### 7. Create Pull Request
+
+Click Compare & Pull Request.
 
 ## Rules
 
-- Write clean and readable code.
-- Add comments where necessary.
-- Do not upload duplicate solutions.
-- Follow the existing folder structure.
+✔ Clean Code
+
+✔ Proper Folder
+
+✔ No Duplicate Solution
+
+✔ Add Time Complexity
+
+✔ Add Space Complexity
+
+Happy Coding 🚀
