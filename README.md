@@ -46,3 +46,19 @@ SQL/
 ## Happy Coding ❤️
 
 If you like this repository, don't forget to ⭐ Star it.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
