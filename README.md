@@ -53,12 +53,18 @@ If you like this repository, don't forget to ⭐ Star it.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
