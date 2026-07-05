@@ -1,4 +1,6 @@
-class solution{
+import java.util.*;
+
+class solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
 
@@ -6,12 +8,13 @@ class solution{
             if (c == '(' || c == '[' || c == '{') {
                 st.push(c);
             } else {
-                if (st.isEmpty()) return false;
+                if (st.isEmpty())
+                    return false;
 
                 char top = st.pop();
                 if ((c == ')' && top != '(') ||
-                    (c == ']' && top != '[') ||
-                    (c == '}' && top != '{')) {
+                        (c == ']' && top != '[') ||
+                        (c == '}' && top != '{')) {
                     return false;
                 }
             }
