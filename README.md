@@ -56,21 +56,25 @@ If you like this repository, don't forget to ⭐ Star it.
 | [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0881-boats-to-save-people](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0881-boats-to-save-people](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0881-boats-to-save-people](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
