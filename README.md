@@ -64,6 +64,7 @@ If you like this repository, don't forget to ⭐ Star it.
 | [0016-3sum-closest](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -84,4 +85,5 @@ If you like this repository, don't forget to ⭐ Star it.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
