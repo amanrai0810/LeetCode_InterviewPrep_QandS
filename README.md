@@ -78,6 +78,7 @@ If you like this repository, don't forget to ⭐ Star it.
 | [0541-reverse-string-ii](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ If you like this repository, don't forget to ⭐ Star it.
 | [0344-reverse-string](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/amanrai0810/LeetCode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
